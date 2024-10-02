@@ -1,1 +1,1 @@
-# qiskit-bootcamp-2024
+# Qiskit Bootcamp 2024
